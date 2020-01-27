@@ -1,0 +1,4 @@
+#!/bin/sh
+branchName = "$1"
+
+echo "$branchName"
